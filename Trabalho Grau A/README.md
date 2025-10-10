@@ -56,11 +56,11 @@ O projeto foi estruturado de forma modular, utilizando os princípios da Program
 
 ## Como Compilar e Executar
 
-# Pré-requisitos
+### Pré-requisitos
 É necessário ter um compilador C++ instalado e configurado no seu sistema, como o g++ (parte do MinGW no Windows ou do build-essentials no Linux).
-# Compilação
+### Compilação
 Navegue até a pasta raiz do projeto pelo terminal e execute o seguinte comando:
 `g++ main.cpp Sistema.cpp Usuario.cpp Album.cpp Figurinha.cpp Troca.cpp -o programa`
-# Execução
+### Execução
 Após a compilação, um arquivo executável chamado programa (ou programa.exe) será criado. Para rodar a aplicação, execute:
 `./programa`
