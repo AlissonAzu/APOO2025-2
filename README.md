@@ -1,7 +1,7 @@
 # Algoritmos e Programação: Orientação a Objetos
 Repositório contendo os algoritmos da cadeira de **Algoritmos e Programação: Orientação a Objetos** 
 durante o semestre 2025/1
-#📂 Estrutura do Repositório
+📂 Estrutura do Repositório
 
 | Projeto                 | Engine / Linguagem | Descrição breve                             |
 | ----------------------- | ------------------ | ------------------------------------------- |
