@@ -25,7 +25,7 @@ O projeto foi estruturado de forma modular, utilizando os princípios da Program
 | `Album.h / .cpp`      | Representa a coleção de um usuário, gerenciando o vetor de Figurinhas que ele possui.                            |
 | `Figurinha.h / .cpp`  | Representa uma única figurinha, com seus atributos como número, nome, e status (na coleção, colada, etc).        |
 | `Troca.h / .cpp`      | Representa uma proposta de troca, contendo o proponente, o receptor e as figurinhas envolvidas.                  |
-| `Pagina.h`            | Estrutura auxiliar para definir o layout e a organização das páginas do álbum.                                   |
+| `Pagina.h / .cpp`     | Estrutura auxiliar para definir o layout e a organização das páginas do álbum.                                   |
 | `*.csv`               | Arquivos de texto utilizados para carregar e salvar os dados da aplicação de forma persistente.                  |
 
 ---
