@@ -27,7 +27,7 @@ O projeto está estruturado de forma modular, utilizando os princípios da Progr
 | **PokemonPedra.h / .cpp** | Representa a Herança Simples de `Pokemon`. |
 | **Squirtle.h / .cpp** | Implementa a **Herança Multinível** (Pokemon -> PokemonAgua -> Squirtle). |
 | **\*.csv** | Arquivo `pokedex_data.csv` utilizado para carregar e salvar o estado do catálogo de forma persistente. |
-
+| **diagrama_classes_pokedex.png** | Imagem do Diagrama de Classes UML do projeto, localizada na pasta `img/`. |
 ---
 
 ## 🚨 Nota Importante sobre a Apresentação
