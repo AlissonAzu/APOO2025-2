@@ -8,9 +8,6 @@ using namespace std;
 int main() {
     cout << "--- EXERCICIO 2: CLASSES ABSTRATAS (ANIMAIS) ---" << endl;
     
-    // Animal a("Teste", "Som"); // Descomente para testar: DARA ERRO DE COMPILACAO!
-    cout << "Tentativa de instanciar Animal diretamente resultaria em erro (Classe Abstrata)." << endl;
-    
     Gato felix("Felix", "Miau");
     Cachorro rex("Rex", "Au Au");
     Galinha gertrude("Gertrude", "Cocorico");
