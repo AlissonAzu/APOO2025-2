@@ -8,6 +8,7 @@ durante o semestre 2025/1
 | `Lista 2` | C++         | Desenvolvimento dos exercícios da Lista 2 |
 | `Lista 3` | C++         | Desenvolvimento dos exercícios da Lista 3 |
 | `Lista 4` | C++         | Desenvolvimento dos exercícios da Lista 4 |
+| `Lista 5` | C++         | Desenvolvimento dos exercícios da Lista 5 |
 | `Trabalho Grau A`      | C++   | Desenvolvimento do Trabalho do Grau A |
 | `Trabalho Grau B`      | C++   | Desenvolvimento do Trabalho do Grau B |
 ## Informações
