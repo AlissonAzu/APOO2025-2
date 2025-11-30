@@ -16,18 +16,30 @@ Os dados da aplicação (Pokémons) são salvos em arquivos de texto no formato 
 
 O projeto está estruturado de forma modular, utilizando os princípios da Programação Orientada a Objetos e seguindo o padrão de arquivos de cabeçalho e implementação.
 
-| Arquivo                      | Descrição |
-| :---                         | :--- |
-| **main.cpp**                 | Ponto de entrada do programa. |
-| **Pokedex.h / .cpp**         | Classe orquestradora. Gerencia o vetor de objetos `Pokemon*` (polimorfismo e alocação dinâmica) e controla a persistência de dados. |
-| **Pokemon.h / .cpp**         | **Classe Abstrata Base**. Define a interface básica (ex: `atacar()`, `exibirStatus()`) usando métodos virtuais puros. |
-| **PokemonFogo.h / .cpp**     | Representa a Herança Simples de `Pokemon`. Contém um exemplo de **Sobrecarga** de Construtores. |
-| **PokemonAgua.h / .cpp**     | Representa a Herança Simples de `Pokemon`. |
+| Arquivo | Descrição |
+| :--- | :--- |
+| **main.cpp** | Ponto de entrada do programa. |
+| **Pokedex.h / .cpp** | Classe orquestradora. Gerencia o vetor de objetos `Pokemon*` (polimorfismo e alocação dinâmica) e controla a persistência de dados. |
+| **Pokemon.h / .cpp** | **Classe Abstrata Base**. Define a interface básica (ex: `atacar()`, `exibirStatus()`) usando métodos virtuais puros. |
+| **PokemonFogo.h / .cpp** | Representa a Herança Simples de `Pokemon`. Contém um exemplo de **Sobrecarga** de Construtores. |
+| **PokemonAgua.h / .cpp** | Representa a Herança Simples de `Pokemon`. |
 | **PokemonEletrico.h / .cpp** | Representa a Herança Simples de `Pokemon`. |
-| **PokemonPedra.h / .cpp**    | Representa a Herança Simples de `Pokemon`. |
-| **Squirtle.h / .cpp**        | Implementa a **Herança Multinível** (Pokemon -> PokemonAgua -> Squirtle). |
-| **\*.csv**                   | Arquivo `pokedex_data.csv` utilizado para carregar e salvar o estado do catálogo de forma persistente. |
+| **PokemonPedra.h / .cpp** | Representa a Herança Simples de `Pokemon`. |
+| **Squirtle.h / .cpp** | Implementa a **Herança Multinível** (Pokemon -> PokemonAgua -> Squirtle). |
+| **\*.csv** | Arquivo `pokedex_data.csv` utilizado para carregar e salvar o estado do catálogo de forma persistente. |
 
+---
+
+## 🚨 Nota Importante sobre a Apresentação
+Gostaria de informar que não consegui participar da apresentação oral do trabalho.
+
+Estou em uma viagem de trabalho para o exterior e, infelizmente, os compromissos se chocaram com a data.
+
+O projeto está 100% completo e funcional, atendendo a todos os requisitos.
+
+Obrigado pela compreensão!
+
+**Alisson Henrique Maciel Grings**
 ---
 
 ## ℹ️ Informações Técnicas
