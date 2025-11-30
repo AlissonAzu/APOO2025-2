@@ -39,7 +39,8 @@ O projeto está 100% completo e funcional, atendendo a todos os requisitos.
 
 Obrigado pela compreensão!
 
-**Alisson Henrique Maciel Grings**
+*Alisson Henrique Maciel Grings*
+
 ---
 
 ## ℹ️ Informações Técnicas
